@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="funcell_networkerror">网络连接错误</string>
+    <string name="funcell_checknetwork">亲！请检查网络,游戏即将退出！</string>
+    <string name="funcell_startpay">开始进行支付了</string>
+    <string name="funcell_submitfail">提交参数失败了， 请重新提交处理哦！</string>
+    <string name="funcell_getorderfail">获取订单号失败，请联系客服！</string>
+    <string name="funcell_delaypay">亲，网络延迟可能造成到账时间延迟，请先试玩游戏，感谢支持!</string>
+    <string name="funcell_tip">提示</string>
+</resources>

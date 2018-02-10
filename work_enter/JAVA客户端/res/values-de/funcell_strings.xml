@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="funcell_networkerror">Netzverbindungsfehler</string>
+    <string name="funcell_checknetwork">Prüfe bitte Netzverbindung. Es wird sobald beendet!</string>
+    <string name="funcell_startpay">Beginnt aufladen</string>
+    <string name="funcell_submitfail">Die Behandlung von Parameter wird fehlgeschlagen. Reichen Sie es erneut ein.</string>
+    <string name="funcell_getorderfail">Die Erfassung von Auftragsnummer wird fehlgeschlagen. Kontaktieren Sie bitte Kundendienst!</string>
+    <string name="funcell_delaypay">Netzwerk-Verzögerung kann eine Zeitverzögerung der Ankunft verursachen. Spielen Sie zuerst! Vielen Dank für die Unterstützung!</string>
+    <string name="funcell_pay_maxnum_error">此商品购买次数已达上限，请选择其他商品!</string>
+    <string name="funcell_tip">Hinweis</string>
+    
+    <string name="FUNCELL_CHANNEL_TEST">100</string>
+    <string name="FUNCELL_LOGIN_FLAG_TEST">Eingeloggt schon. Loggen Sie bitte zuerst Ihren aktuellen Account aus. </string>
+    <string name="FUNCELL_NOT_LOGIN_FLAG_TEST">尚未登录,请登录 </string>
+</resources>

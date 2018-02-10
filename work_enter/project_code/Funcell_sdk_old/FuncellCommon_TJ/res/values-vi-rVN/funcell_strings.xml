@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="funcell_networkerror">Lỗi kết nối mạng</string>
+    <string name="funcell_checknetwork">Mời kiểm tra mạng, thoát game!</string>
+    <string name="funcell_startpay">Bắt đầu tiến hành trả phí.</string>
+    <string name="funcell_submitfail">Gửi thất bại, mời gửi lại!</string>
+    <string name="funcell_getorderfail">Mua hàng thất bại, mời liên hệ CSKH!</string>
+    <string name="funcell_delaypay">Đường truyền không ổn định dẫn đến KNB vào tài khoản bị chậm. Mời bạn chơi game trước, cám ơn bạn đã ủng hộ.</string>
+    <string name="funcell_tip">Nhắc nhở</string>
+</resources>

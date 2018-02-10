@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="funcell_networkerror">เชื่อมต่อเน็ตล้มเหลว</string>
+    <string name="funcell_checknetwork">ที่รัก!กรุณาตรวจอินเตอร์เน็ต กำลัจะออกเกม!</string>
+    <string name="funcell_startpay">เริ่มดำเนินการชำระเงินแล้ว</string>
+    <string name="funcell_submitfail">ส่งพารามิเตอร์ล้มเหลว กรุณาส่งจัดการใหม่!</string>
+    <string name="funcell_getorderfail">รับหมายเลขออเดอร์ล้มเหลว กรุณาติดต่อฝ่ายบริการ!</string>
+    <string name="funcell_delaypay">ที่รัก อินเตอร้เน็ตล่าช้าอาจทำให้เวลาเข้าบัญชีล่าช้า กรุณาลองเล่นเกมก่อน ขอบคุณที่สนับสนุนเรา!</string>
+    <string name="funcell_tip">Tip</string>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<root>
+	<otherKey type="dict">
+		<packageName type="str">com.funcell123.demo.funcell</packageName>
+	</otherKey>
+	<customKey type="dict">
+		<talkingdata_appid type="str"/>
+		<crash_appid type="str"/>
+		<push_appid type="str"/>
+	</customKey>
+	<platform type="dict">
+		<datacenter type="str">szdc</datacenter>
+		<gameId type="str">100</gameId>
+		<platformId type="str">10000</platformId>
+		<resVersion type="str">1.0.0</resVersion>
+		<eve type="str">http://eve-beta.funcell123.com/config/</eve>
+		<ChannelVersionCode type="str">2.0</ChannelVersionCode>
+		<appVersion type="str">1.0.0</appVersion>
+		<platformType type="str">funcell</platformType>
+		<area type="str">China</area>
+	</platform>
+	<splash type="dict">
+		<hasSplash type="str">landscape</hasSplash>
+	</splash>
+	<clientKey type="dict">
+		<app_secret type="str">f35y546ku5gd2aed562t5</app_secret>
+		<app_id type="str">10000</app_id>
+	</clientKey>
+</root>

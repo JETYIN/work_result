@@ -1,0 +1,88 @@
+v2.2 -- 2017.12.7
+1：删除FuncellSdk3.1.2.jar 替换libs目录下FuncellSdk3.1.3.jar（新增论坛接口）
+
+v2.1 -- 2017.9.18
+1：删除FuncellSdk3.1.1.jar 替换libs目录下FuncellSdk3.1.2.jar（新增配置参数设置）
+
+v2.0 -- 2017.9.11
+1：删除FuncellSdk3.0.4.jar 替换libs目录下FuncellSdk3.1.1.jar（新增初始化参数设置）
+
+v1.9 -- 2017.7.19
+1：删除FuncellSdk3.0.3.jar 替换libs目录下FuncellSdk3.0.4.jar（修复内部初始化重试时可能产生递归调用问题）
+
+v1.8 -- 2017.7.12
+1：删除FuncellSdk3.0.2.jar 替换libs目录下FuncellSdk3.0.3.jar（修复支付失败产生死循环问题）
+
+v1.7 -- 2017.6.16
+1：删除FuncellSdk3.0.1.jar 替换libs目录下FuncellSdk3.0.2.jar（修复初始化之前无法获取平台参数问题）
+
+v1.6 -- 2017.6.13
+1：删除FuncellSdk3.0.jar 替换libs目录下FuncellSdk3.0.1.jar
+
+v1.5 -- 2017.5.25
+1：删除FuncellSdk2.0.jar 替换libs目录下FuncellSdk3.0.jar
+
+v1.4 -- 2017.2.9
+1：删除FuncellSdk.jar,替换libs目录下FuncellSdk2.0.jar
+2：支付接口新增字段-币种(RMB、USD、KRW...)
+	PayParams.setmCurrency(String),默认RMB
+3：支付接口商品价格删除单位（分），采用原始价格，无需进行单位转换
+4：支付接口商品价格改为String类型
+
+
+v1.3 -- 2017.1.17
+
+1：字段新增：
+	1：角色创建
+	pc.putString("role_recharge_balance", "游戏玩家充值游戏币余额"); //充值后的游戏币余额(钻石、元宝等余额)
+	
+	2：角色升级
+	pc.putString("role_recharge_balance", "游戏玩家充值游戏币余额"); //充值后的游戏币余额(钻石、元宝等余额)
+	
+	3：角色服务器事件
+	pc.putString("role_recharge_balance", "游戏玩家充值游戏币余额"); //充值后的游戏币余额(钻石、元宝等余额)
+	
+	
+v1.2 -- 2017.1.11
+
+1：替换libs目录下FuncellSdk.jar
+2：字段新增：
+	1：角色创建
+	pc.putString("role_gamegold_balance", "游戏玩家金币余额"); //游戏金币，并非充值后的钻石数量
+	pc.putString("role_gameunion_name", "公会名字");
+	pc.putString("role_vip_level", "1");//VIP等级
+	pc.putString("role_level", "1"); //角色等级
+	pc.putString("role_creat_time", "服务器时间戳");//角色创建时间
+	pc.putString("role_upgrade_time", "服务器时间戳"); //角色升级时间
+	
+	2：角色升级
+	pc.putString("role_gamegold_balance", "游戏玩家金币余额"); //游戏金币，并非充值后的钻石数量
+	pc.putString("role_gameunion_name", "公会名字");
+	pc.putString("role_vip_level", "1");//VIP等级
+	pc.putString("role_creat_time", "服务器时间戳");//角色创建时间
+	pc.putString("role_upgrade_time", "服务器时间戳"); //角色升级时间
+	
+	3：角色服务器事件
+	pc.putString("role_gamegold_balance", "游戏玩家金币余额"); //游戏金币，并非充值后的钻石数量
+	pc.putString("role_creat_time", "服务器时间戳");//角色创建时间
+	pc.putString("role_upgrade_time", "服务器时间戳"); //角色升级时间
+
+
+v1.1 -- 2017.1.3
+
+1：替换libs目录下FuncellSdk.jar
+2：实现onSwitchAccount接口
+
+---------------------------------------------------------------
+v1.1 -- 2016.12.22
+
+1：替换libs目录下FuncellSdk.jar
+2：字段变更：
+   1：角色升级事件
+   pc.putString("role_level", "999");//等级
+   2：角色服务器事件
+   pc. putString ("role_level", "999"); //等级
+3：Manifest使用以下权限
+   <uses-permission android:name="android.permission.INTERNET" />
+   <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+   <uses-permission android:name="android.permission.READ_PHONE_STATE" />

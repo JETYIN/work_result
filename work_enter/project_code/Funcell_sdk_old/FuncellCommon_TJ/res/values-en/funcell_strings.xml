@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="funcell_networkerror">Internet Connection Is Wrong</string>
+    <string name="funcell_checknetwork">Please Check Your Network. You Will Sign Out Soon.</string>
+    <string name="funcell_startpay">Payment Is Starting</string>
+    <string name="funcell_submitfail">Submitting Parameters Failed. Please Submit Again!</string>
+    <string name="funcell_getorderfail"> Getting Order No. Address Failed. Please Contact Customer Service!</string>
+    <string name="funcell_delaypay">Sorry, Diamonds Delivery May Be Postponed Due To Network Lagging. You Can Enjoy The Game First!</string>
+    <string name="funcell_tip">Tips</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="funcell_networkerror">네트워크 오류</string>
+    <string name="funcell_checknetwork">네트워크를 확인해주세요!</string>
+    <string name="funcell_startpay">충전 진행</string>
+    <string name="funcell_submitfail">데이터 오류. 다시 시도해주세요!</string>
+    <string name="funcell_getorderfail">주몬코드 오류. 고객센터에 연락하세요!</string>
+    <string name="funcell_delaypay">네트워크 속도로 인해 원보를 받는데 시간이 걸리 수 있습니다. 잠시 기다려주세요!</string>
+    <string name="funcell_tip">알림</string>
+</resources>

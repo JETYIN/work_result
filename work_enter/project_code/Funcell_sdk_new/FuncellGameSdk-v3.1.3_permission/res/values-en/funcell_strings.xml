@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="funcell_networkerror">Network error</string>
+  <string name="funcell_checknetwork">Please check the network.Game is going to close</string>
+  <string name="funcell_startpay">Start to pay </string>
+  <string name="funcell_submitfail">Failed to submit parameters，please try again！</string>
+  <string name="funcell_getorderfail">Failed to get order number,please contact customer service！</string>
+  <string name="funcell_delaypay">Network delay may cause the purchase delay in game.Please enjoy the game first.Thank you </string>
+  <string name="funcell_pay_maxnum_error">此商品购买次数已达上限，请选择其他商品!</string>
+  <string name="funcell_tip">Tips</string>
+  <string name="FUNCELL_CHANNEL_TEST">100</string>
+  <string name="FUNCELL_LOGIN_FLAG_TEST">You have logged in, please leave the current account first</string>
+  <string name="FUNCELL_NOT_LOGIN_FLAG_TEST">尚未登录,请登录 </string>
+</resources>

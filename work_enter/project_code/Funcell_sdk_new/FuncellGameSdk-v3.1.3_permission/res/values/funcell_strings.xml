@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="funcell_networkerror">网络连接错误</string>
+    <string name="funcell_checknetwork">请检查网络,无网络链接</string>
+    <string name="funcell_startpay">开始进行支付了</string>
+    <string name="funcell_submitfail">提交参数失败了， 请重新提交处理哦！</string>
+    <string name="funcell_getorderfail">获取订单号失败，请联系客服！</string>
+    <string name="funcell_delaypay">网络延迟可能造成到账时间延迟，请先试玩游戏，感谢支持!</string>
+    <string name="funcell_pay_maxnum_error">此商品购买次数已达上限，请选择其他商品!</string>
+    <string name="funcell_tip">提示</string>
+    
+    <string name="FUNCELL_CHANNEL_TEST">100</string>
+    <string name="FUNCELL_LOGIN_FLAG_TEST">已登录，请先退出当前账号 </string>
+    <string name="FUNCELL_NOT_LOGIN_FLAG_TEST">尚未登录,请登录 </string>
+</resources>

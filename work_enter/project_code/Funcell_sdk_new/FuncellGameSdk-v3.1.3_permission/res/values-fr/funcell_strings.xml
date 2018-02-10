@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="funcell_networkerror">Erreur de la connection de net</string>
+    <string name="funcell_checknetwork">Veuillez examiner le net, le jeu sera fermé!</string>
+    <string name="funcell_startpay">Commencer à payer</string>
+    <string name="funcell_submitfail">Échec de soumettre les paramètres, veuillez le soumettre de nouveau!</string>
+    <string name="funcell_getorderfail">Échec d’acquérir le code de la commande, veuillez contacter la Service!</string>
+    <string name="funcell_delaypay">Le délai de net apporterait celui de crédit, veuillez essayer le jeu, merci!</string>
+    <string name="funcell_pay_maxnum_error">此商品购买次数已达上限，请选择其他商品!</string>
+    <string name="funcell_tip">Notification</string>
+    
+    <string name="FUNCELL_CHANNEL_TEST">Cent</string>
+    <string name="FUNCELL_LOGIN_FLAG_TEST">Connecté, veuillez déconnecter ce compte</string>
+    <string name="FUNCELL_NOT_LOGIN_FLAG_TEST">尚未登录,请登录 </string>
+</resources>

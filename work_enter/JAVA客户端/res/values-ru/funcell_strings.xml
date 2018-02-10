@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="funcell_networkerror">Ошибка подключения интернета</string>
+    <string name="funcell_checknetwork">Игра закрывается, проверяйте подключение интернета!</string>
+    <string name="funcell_startpay">Идёт покупка</string>
+    <string name="funcell_submitfail">Неудалось представлять данные, представляйте заново для проверки!</string>
+    <string name="funcell_getorderfail">Неудалось получение заказа, свяжитесь с поддержкой!</string>
+    <string name="funcell_delaypay">Вы может быть получать геммы позже с задержанием интернета, подождите в игре пожалуйста! Спасибо за вашу поддержку!</string>
+    <string name="funcell_pay_maxnum_error">此商品购买次数已达上限，请选择其他商品!</string>
+    <string name="funcell_tip">Подсказка</string>
+    
+    <string name="FUNCELL_CHANNEL_TEST">100</string>
+    <string name="FUNCELL_LOGIN_FLAG_TEST">Успешный вход, выйдете текущий аккаунт</string>
+    <string name="FUNCELL_NOT_LOGIN_FLAG_TEST">尚未登录,请登录 </string>
+</resources>
