@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?><root>
+
+    <apk path="H:/WorkSpace/mubao/MLJX_Y/Ares_basepackage_v5.2.0_MLJX_pkg1_bvc21_201703171146.apk"/>
+	<keystore alias="fanxian2.keystore" aliaspassword="haowan123" password="haowan123" path="H:/WorkSpace/mubao/sign/fanxian2.keystore"/>
+
+    <apk path="F:/doc/gameapk/Ares_basepackage_v5.1.0_CNL_pkg1_bvc1_201703202104.apk"/>
+	<keystore alias="fanxian2.keystore" aliaspassword="haowan123" password="haowan123" path="F:/keystore/fanxian2.keystore"/>
+	<channel name="yunding[V1.0.0.9],"/>
+	<talkingdata appId="E370D1F2957D66A1A234E138435FE8E4" status="disable">
+		<item appId="445B40F9CB5EEFCA8A7823E7B9DAFF87" area="国内"/>
+		<item appId="445B40F9CB5EEFCA8A7823E7B9DAFF87" area="台湾"/>
+		<item appId="3C22282156FFE5B830C248E0950B766E" area="日本"/>
+		<item appId="E370D1F2957D66A1A234E138435FE8E4" area="韩国"/>
+		<item appId="5FCDE7CCBB0DB351902394A7A3FA4F00" area="其他"/>
+	</talkingdata>
+	<crash appId="900010541" status="disable">
+		<item appId="58f0ea669ca29cbc7398cc82fbdb6ecf" type="Testing"/>
+		<item appId="900010541" type="Bugly"/>
+	</crash>
+	<push appId="IOnGigkH1X5iprijAiFk72" status="disable" type="个推">
+		<item appId="pTb6CuhjBXDnDy0d3Mys8wOC" type="百度"/>
+		<item appId="IOnGigkH1X5iprijAiFk72" appKey="D6E5mb7rySAwRW1QePBU28" appSecret="a7y5bqjR7m6aUKFRDgnF54" type="个推"/>
+		<item appId="555555" type="友盟"/>
+		<item appId="99999" type="信鸽"/>
+	</push>
+	<advertising appId="ca50e0dc8659fe5e9547a9c6fcc64874" status="disable">
+		<item appId="ca50e0dc8659fe5e9547a9c6fcc64874" area="国内"/>
+		<item appId="445B40F9CB5EEFCA8A7823E7B9DAFF87" area="台湾"/>
+		<item appId="999" area="日本"/>
+		<item appId="E370D1F2957D66A1A234E138435FE8E4" area="韩国"/>
+		<item appId="5FCDE7CCBB0DB351902394A7A3FA4F00" area="其他"/>
+	</advertising>
+	<media appKey="999999999999999999999999" appSecret="66666666666666666" status="disable"/>
+</root>
